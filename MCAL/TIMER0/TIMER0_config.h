@@ -1,0 +1,32 @@
+/*
+ * TIMER0_config.h
+ *
+ *  Created on: Sep 6, 2024
+ *      Author: Mariam
+ */
+
+#ifndef TIMER0_CONFIG_H_
+#define TIMER0_CONFIG_H_
+
+/* SET TIMER0 MODE*/
+#define TIMER0_MODE            TIMER0_CTC_MODE
+
+/* SET TIMER0 PRESCALLER*/
+#define TIMER0_PRESCALLER      TIMER0_64_PRE
+
+/* SET TIMER0 COMPARE MATCH OUTPUT MODE*/
+#define TIMER0_OCR0_MODE       TIMER0_CLEAR_OC0
+
+/* SET TIMER0 INTERRUPT*/
+#define TIMER0_INTERRUPT       TIMER0_INT_DISABLE
+
+/* SET TIMER0 Preload value*/
+#define   TIMER0_PRELOAD_VAL            113
+
+#define TMR0_OVERFLOW_COUNTER			977
+#define TIMER0_OUTPUT_COMPARE_VALUE    249
+#define TIMER0_CTC_COUNTER                  1500
+
+#define   F_CPU       16000000UL
+
+#endif /* TIMER0_CONFIG_H_ */
