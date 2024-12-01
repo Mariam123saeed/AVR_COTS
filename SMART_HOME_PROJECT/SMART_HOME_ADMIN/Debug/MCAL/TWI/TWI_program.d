@@ -1,0 +1,17 @@
+MCAL/TWI/TWI_program.o MCAL/TWI/TWI_program.o: ../MCAL/TWI/TWI_program.c \
+  D:\AVR_CODES\SMART_HOME_ADMIN\UTILS_LIB/STD_TYPES.h \
+  D:\AVR_CODES\SMART_HOME_ADMIN\UTILS_LIB/BIT_MATH.h \
+  ../MCAL/TWI/TWI_config.h ../MCAL/TWI/TWI_interface.h \
+  ../MCAL/TWI/TWI_private.h ../MCAL/TWI/TWI_register.h
+
+D:\AVR_CODES\SMART_HOME_ADMIN\UTILS_LIB/STD_TYPES.h:
+
+D:\AVR_CODES\SMART_HOME_ADMIN\UTILS_LIB/BIT_MATH.h:
+
+../MCAL/TWI/TWI_config.h:
+
+../MCAL/TWI/TWI_interface.h:
+
+../MCAL/TWI/TWI_private.h:
+
+../MCAL/TWI/TWI_register.h:
