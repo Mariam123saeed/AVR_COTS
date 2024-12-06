@@ -2,7 +2,7 @@
 
 ### Overview
 
-The **Smart Home Management System** is a comprehensive solution designed to control and monitor home appliances and user access remotely and locally. It features an admin and user interface for efficient home management. The system includes functionalities such as user authentication, appliance control, and system resets, leveraging hardware components like Arduino, LCD, keypad, LEDs, and SPI communication for seamless interaction.
+The **Smart Home Management System** is a comprehensive solution designed to control and monitor home appliances and user access remotely and locally. It features an admin and user interface for efficient home management. The system includes functionalities such as user authentication, appliance control, and system resets, leveraging hardware components like   LCD, keypad, LEDs, and SPI communication for seamless interaction.
 
 ------
 
@@ -46,7 +46,7 @@ The **Smart Home Management System** is a comprehensive solution designed to con
 
 ### Hardware Components
 
-1. **Microcontroller**: Arduino/ATmega328P-based development board.
+1. **Microcontroller : ATmega32-based development board.
 
 2. Peripherals
 
